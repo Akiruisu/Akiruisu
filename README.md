@@ -86,16 +86,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Akiruisu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akiruisu&show_icons=true&theme=catppuccin_mocha&hide_border=true&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akiruisu&layout=compact&theme=catppuccin_mocha&hide_border=true)
-
-</div>
-
 ---
 
 ## 🌱 Currently Learning
